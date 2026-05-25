@@ -7,15 +7,12 @@ This repository contains the official implementation and experiments for the pap
 
 **“Alt-Tag: Enhancing Alt Text Generation for Charts via Tag Guidance”**
 
----
-
 ## 📦 Dataset
 
 The dataset used in this work is publicly available on Hugging Face:
 
 👉 https://huggingface.co/datasets/yanchuqiao/Alt-tag-Dataset
 
----
 
 ## 🧠 Repository Structure
 
